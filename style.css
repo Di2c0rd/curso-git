@@ -1,5 +1,5 @@
 body {
-    background-color: crimson;
+    background-color: black;
     color: azure;
     font-family: 'Times New Roman', Times, serif;
     padding: 0;
@@ -11,7 +11,7 @@ h1 {
     padding-top: 8px;
 }
 .bar {
-    background-color: beige;
+    background-color: blue;
     padding: 10px;
     display: flex;
 }
